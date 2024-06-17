@@ -4,7 +4,7 @@
 [![release][release-badge]][release]
 [![license][license-badge]][license]
 
-This is a GitHub Action to get a latest Git tag.
+This is a fork of GitHub Action actions-ecosystem/action-get-latest-tag to get a latest Git tag.
 
 It would be more useful to use this with other GitHub Actions' outputs.
 
